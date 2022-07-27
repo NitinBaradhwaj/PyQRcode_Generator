@@ -22,4 +22,4 @@ This script take a link of any URL or any text and generates a QR code correspon
 
 ### Screenshot/GIF showing the sample use of the script
 
-![QR code Output](https://github.com/Python-World/python-mini-projects/blob/master/projects/Qr_code_generator/url_qrcode.png)
+![QR code Output](https://raw.githubusercontent.com/NitinBaradhwaj/PyQRcode_Generator/main/url_qrcode.png)
